@@ -6,6 +6,9 @@
 Welcome to KathyLearningNote's documentation!
 =============================================
 
+..note::
+   This project is My Process of studying DL and CT image.
+   
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
