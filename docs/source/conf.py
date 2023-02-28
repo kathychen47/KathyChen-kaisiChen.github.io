@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'KathyLearningNote'
+project = 'kathylearningnote'
 copyright = '2023, Kathy'
 author = 'Kathy'
 
